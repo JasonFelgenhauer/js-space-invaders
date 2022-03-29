@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+p {
+	position: fixed;
+	z-index: 10;
+	color: white;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	margin: 25px;
+}
+a {
+	position: fixed;
+	right: 0;
+	z-index: 10;
+	color: white;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	margin: 25px;
+	text-decoration: none;
+}
