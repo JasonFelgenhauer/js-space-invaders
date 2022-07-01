@@ -3,7 +3,7 @@
 # JavaScript Space Invaders
 
 I made this project to improve my skills with `JavaScript`. To move, use the right and left arrows, to shoot space.
-Project : [here](http://space-invaders.jason-fel.be)
+Project : [here](http://pew-pew.jason-fel.be)
 
 ## Get the project
 
